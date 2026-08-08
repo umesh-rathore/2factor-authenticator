@@ -16,7 +16,7 @@ This package contains the 2FactorAuthenticator NVDA add-on. It allows you to sav
 3. Type the following command and press Enter:
    ```cmd
    scons
-   ## Changelog
+   # Changelog
 
 **1.5**
 * Added automatic QR code scanning from screen (requires Pillow and pyzbar libraries, downloaded automatically on first use)
